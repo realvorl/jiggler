@@ -22,7 +22,7 @@ in a new terminal ... and so on....
 `./jiggler.py production-urls.txt`
 
 ### Happy Monitoring
-![what to expect](https://github.com/realvorl/jiggler/blob/master/initial-screen-s.png)
+![what to expect](https://github.com/realvorl/jiggler/blob/master/intial-screen-s.png)
 
 # the end goal
 
