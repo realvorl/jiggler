@@ -1,5 +1,5 @@
-# jiggler
-another 100 lines of code, but this time in Python for the console
+# This is "jiggler"
+another 100 lines of code, but this time in Python, for the terminal.
 
 ## short descriptoion 
 this is intended to be the counterpart to https://github.com/realvorl/bubblegum
