@@ -1,0 +1,8 @@
+http://computer-database.gatling.io/computers?f=macbook
+https://www.dumb-subdom.facebook.com/
+https://www.uberspace.de/
+https://www.amazon.de/
+https://mail.yahoo.com/
+https://www.google.co.uk/
+https://www.facebook.com/this/does/not/exist/
+https://www.ecosia.org/
